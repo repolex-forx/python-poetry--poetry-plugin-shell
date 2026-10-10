@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-poetry/poetry-plugin-shell/commit/2d4261b00bfbe1ed3445366708eab1061bc5045c",
       "git:hexsha": "2d4261b00bfbe1ed3445366708eab1061bc5045c",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T22:32:08.868358+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-poetry/poetry-plugin-shell/commit/401ddde75acca48f3a4b7592802eee94db819c31",

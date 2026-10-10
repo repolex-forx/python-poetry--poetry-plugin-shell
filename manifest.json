@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "python-poetry",
+  "repo": "poetry-plugin-shell",
+  "versions": [
+    {
+      "commit": "2d4261b00bfbe1ed3445366708eab1061bc5045c",
+      "parsed_at": "2026-10-10T22:29:38.116136+00:00",
+      "filetree": "filetree/2d4261b00bfbe1ed3445366708eab1061bc5045c.nq.gz",
+      "blobs": [
+        "blob/5c00c6abd23d0638428279ca1f42acdf6368072e.nq.gz",
+        "blob/e401b4805415b18006c1f531e73d6481a04c6425.nq.gz",
+        "blob/f573549d194286684933330f6b1a2ab44d306a86.nq.gz",
+        "blob/8b05732413290b8717603189211066f01001751a.nq.gz",
+        "blob/d2f165ea1470b0dee4c12e9b11c1cd883aacee5b.nq.gz",
+        "blob/72c6d7e49dda6aac47561d358b34cc9136e1921e.nq.gz",
+        "blob/3db8d0cfa4456087065bbe788718990d9a2b1c29.nq.gz",
+        "blob/25d8ee623c4b7e8c7e44cdacdc5eed9854d54d05.nq.gz",
+        "blob/2d8eab61aef4bd24ecd270ab44380be402c1c930.nq.gz",
+        "blob/6d8e802540d3c5c5f818582549750424b751b5c0.nq.gz",
+        "blob/614d2f12e6f000af1d17031b577a4e3076e60457.nq.gz",
+        "blob/c554e55bd04071beb119b3bc76f36e9375aaeb2a.nq.gz",
+        "blob/7f4d2bd104d74846cb5110acb7d87f046faf1954.nq.gz",
+        "blob/28c3da1f26683d97a391195e53429b0b50bd6c85.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/902b4e4e47b3f225ee623a9805f2c2bcad3f3228.nq.gz",
+        "blob/1842aecbaea2d7c1ccb91a7dfdbb3fbe66dcaa8b.nq.gz",
+        "blob/234ac850dc4806b18d467e88d44d80c123aa2789.nq.gz",
+        "blob/f362ee281312872c6729c7cd81198dd148df0006.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
